@@ -27,3 +27,11 @@ This Project is open to open source contributions.
 
 #### UI Library
 * [Shadcn Ui]("https://ui.shadcn.com/")
+
+#### Authentication Library
+* [Clerk]("https://clerk.dev/") (_not final_)
+
+#### Miscellaneous
+* [Next Themes]("https://www.npmjs.com/package/next-themes")
+* [ZOD]("https://zod.dev/")
+* [React Icons]("https://react-icons.github.io/react-icons/")
